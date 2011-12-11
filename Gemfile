@@ -42,7 +42,6 @@ group :development, :test do
   gem 'launchy'
   gem 'ffaker'
   gem 'haml-rails'
-  gem 'metric_fu'
 
   gem 'guard'
   gem 'guard-spork'
